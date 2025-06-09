@@ -20,7 +20,7 @@ public class FirePokemon extends Pokemon {
 
         @Override
     public void attack() {
-        System.out.println(getName() + " valt aan met vuur");
+        System.out.println(getName() + " valt aan met een enorme hoeveelheid vuur");
         }
 
     public int getFlameThrower() {
