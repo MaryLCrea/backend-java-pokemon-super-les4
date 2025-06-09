@@ -16,7 +16,7 @@ public class ElectricPokemon extends Pokemon{
         }
 
         public void thunderPunch() {
-            System.out.println(getName() + " zet iets onder stroom");
+            System.out.println(getName() + " is heel gevaarlijk en zet je onder enorm veel stroom");
         }
 
         @Override
